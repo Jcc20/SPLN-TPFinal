@@ -1,0 +1,807 @@
+{
+  "classificacao": [
+    {
+      "aproveitamento": 83.3,
+      "derrotas": 1,
+      "empates": 7,
+      "equipe_id": 82,
+      "escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/02/12/Sporting_Clube_de_Portugal-65.png",
+      "faixa_classificacao": {
+        "cor": "#0000ff"
+      },
+      "faixa_classificacao_cor": "#0000ff",
+      "gols_contra": 20,
+      "gols_pro": 65,
+      "jogos": 34,
+      "nome_popular": "Sporting",
+      "ordem": 1,
+      "pontos": 85,
+      "saldo_gols": 45,
+      "sigla": "SPT",
+      "ultimos_jogos": [
+        "v",
+        "v",
+        "v",
+        "d",
+        "v"
+      ],
+      "variacao": 0,
+      "vitorias": 26
+    },
+    {
+      "aproveitamento": 78.4,
+      "derrotas": 2,
+      "empates": 8,
+      "equipe_id": 74,
+      "escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/03/12/porto.svg",
+      "faixa_classificacao": {
+        "cor": "#0000ff"
+      },
+      "faixa_classificacao_cor": "#0000ff",
+      "gols_contra": 29,
+      "gols_pro": 74,
+      "jogos": 34,
+      "nome_popular": "Porto",
+      "ordem": 2,
+      "pontos": 80,
+      "saldo_gols": 45,
+      "sigla": "POR",
+      "ultimos_jogos": [
+        "v",
+        "e",
+        "v",
+        "v",
+        "v"
+      ],
+      "variacao": 0,
+      "vitorias": 24
+    },
+    {
+      "aproveitamento": 74.5,
+      "derrotas": 4,
+      "empates": 7,
+      "equipe_id": 81,
+      "escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/03/11/benfica.svg",
+      "faixa_classificacao": {
+        "cor": "#0000ff"
+      },
+      "faixa_classificacao_cor": "#0000ff",
+      "gols_contra": 27,
+      "gols_pro": 69,
+      "jogos": 34,
+      "nome_popular": "Benfica",
+      "ordem": 3,
+      "pontos": 76,
+      "saldo_gols": 42,
+      "sigla": "BEN",
+      "ultimos_jogos": [
+        "v",
+        "e",
+        "v",
+        "v",
+        "v"
+      ],
+      "variacao": 0,
+      "vitorias": 23
+    },
+    {
+      "aproveitamento": 62.7,
+      "derrotas": 8,
+      "empates": 7,
+      "equipe_id": 80,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/03/01/Braga65.png",
+      "faixa_classificacao": {
+        "cor": "#00ffff"
+      },
+      "faixa_classificacao_cor": "#00ffff",
+      "gols_contra": 33,
+      "gols_pro": 53,
+      "jogos": 34,
+      "nome_popular": "Braga",
+      "ordem": 4,
+      "pontos": 64,
+      "saldo_gols": 20,
+      "sigla": "BRG",
+      "ultimos_jogos": [
+        "d",
+        "e",
+        "e",
+        "v",
+        "e"
+      ],
+      "variacao": 0,
+      "vitorias": 19
+    },
+    {
+      "aproveitamento": 52,
+      "derrotas": 11,
+      "empates": 8,
+      "equipe_id": 78,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/pacos_65.png",
+      "faixa_classificacao": {
+        "cor": "#008000"
+      },
+      "faixa_classificacao_cor": "#008000",
+      "gols_contra": 41,
+      "gols_pro": 40,
+      "jogos": 34,
+      "nome_popular": "Pa\u00e7os de Ferreira",
+      "ordem": 5,
+      "pontos": 53,
+      "saldo_gols": -1,
+      "sigla": "PDF",
+      "ultimos_jogos": [
+        "v",
+        "e",
+        "e",
+        "d",
+        "v"
+      ],
+      "variacao": 0,
+      "vitorias": 15
+    },
+    {
+      "aproveitamento": 45.1,
+      "derrotas": 14,
+      "empates": 7,
+      "equipe_id": 4629,
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/15/Santa_Clara_copy-01.svg",
+      "faixa_classificacao": {
+        "cor": "#008000"
+      },
+      "faixa_classificacao_cor": "#008000",
+      "gols_contra": 36,
+      "gols_pro": 44,
+      "jogos": 34,
+      "nome_popular": "Santa Clara",
+      "ordem": 6,
+      "pontos": 46,
+      "saldo_gols": 8,
+      "sigla": "SAN",
+      "ultimos_jogos": [
+        "e",
+        "d",
+        "v",
+        "v",
+        "v"
+      ],
+      "variacao": 0,
+      "vitorias": 13
+    },
+    {
+      "aproveitamento": 42.2,
+      "derrotas": 11,
+      "empates": 13,
+      "equipe_id": 3514,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2012/07/12/Moreirense65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 43,
+      "gols_pro": 37,
+      "jogos": 34,
+      "nome_popular": "Moreirense",
+      "ordem": 7,
+      "pontos": 43,
+      "saldo_gols": -6,
+      "sigla": "MOR",
+      "ultimos_jogos": [
+        "d",
+        "e",
+        "v",
+        "d",
+        "v"
+      ],
+      "variacao": 3,
+      "vitorias": 10
+    },
+    {
+      "aproveitamento": 42.2,
+      "derrotas": 15,
+      "empates": 7,
+      "equipe_id": 84,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/vitoria_65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 44,
+      "gols_pro": 37,
+      "jogos": 34,
+      "nome_popular": "Vit\u00f3ria de Guimar\u00e3es",
+      "ordem": 8,
+      "pontos": 43,
+      "saldo_gols": -7,
+      "sigla": "VDG",
+      "ultimos_jogos": [
+        "v",
+        "e",
+        "d",
+        "e",
+        "d"
+      ],
+      "variacao": -1,
+      "vitorias": 12
+    },
+    {
+      "aproveitamento": 39.2,
+      "derrotas": 14,
+      "empates": 10,
+      "equipe_id": 4857,
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/07/15/Famalic\u00e3o-65x65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 48,
+      "gols_pro": 40,
+      "jogos": 34,
+      "nome_popular": "Famalic\u00e3o",
+      "ordem": 9,
+      "pontos": 40,
+      "saldo_gols": -8,
+      "sigla": "FCF",
+      "ultimos_jogos": [
+        "d",
+        "v",
+        "v",
+        "v",
+        "d"
+      ],
+      "variacao": -1,
+      "vitorias": 10
+    },
+    {
+      "aproveitamento": 39.2,
+      "derrotas": 12,
+      "empates": 13,
+      "equipe_id": 5307,
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/09/19/Belenenses-SAD-65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 35,
+      "gols_pro": 25,
+      "jogos": 34,
+      "nome_popular": "Belenenses SAD",
+      "ordem": 10,
+      "pontos": 40,
+      "saldo_gols": -10,
+      "sigla": "BSA",
+      "ultimos_jogos": [
+        "d",
+        "v",
+        "v",
+        "d",
+        "d"
+      ],
+      "variacao": -1,
+      "vitorias": 9
+    },
+    {
+      "aproveitamento": 38.2,
+      "derrotas": 17,
+      "empates": 6,
+      "equipe_id": 3137,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/Gil_Vicente_65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 42,
+      "gols_pro": 33,
+      "jogos": 34,
+      "nome_popular": "Gil Vicente",
+      "ordem": 11,
+      "pontos": 39,
+      "saldo_gols": -9,
+      "sigla": "GVC",
+      "ultimos_jogos": [
+        "e",
+        "v",
+        "e",
+        "v",
+        "d"
+      ],
+      "variacao": 0,
+      "vitorias": 11
+    },
+    {
+      "aproveitamento": 35.3,
+      "derrotas": 14,
+      "empates": 12,
+      "equipe_id": 4024,
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/07/29/Boavista_FC-portugal-65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 49,
+      "gols_pro": 39,
+      "jogos": 34,
+      "nome_popular": "Boavista",
+      "ordem": 12,
+      "pontos": 36,
+      "saldo_gols": -10,
+      "sigla": "BOA",
+      "ultimos_jogos": [
+        "e",
+        "e",
+        "d",
+        "v",
+        "v"
+      ],
+      "variacao": 3,
+      "vitorias": 8
+    },
+    {
+      "aproveitamento": 35.3,
+      "derrotas": 18,
+      "empates": 6,
+      "equipe_id": 4231,
+      "escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/16/Tondela65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 57,
+      "gols_pro": 36,
+      "jogos": 34,
+      "nome_popular": "Tondela",
+      "ordem": 13,
+      "pontos": 36,
+      "saldo_gols": -21,
+      "sigla": "TON",
+      "ultimos_jogos": [
+        "d",
+        "e",
+        "d",
+        "d",
+        "d"
+      ],
+      "variacao": -1,
+      "vitorias": 10
+    },
+    {
+      "aproveitamento": 34.3,
+      "derrotas": 17,
+      "empates": 8,
+      "equipe_id": 2675,
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/08/02/Portimonense-65x65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 41,
+      "gols_pro": 34,
+      "jogos": 34,
+      "nome_popular": "Portimonense",
+      "ordem": 14,
+      "pontos": 35,
+      "saldo_gols": -7,
+      "sigla": "PTM",
+      "ultimos_jogos": [
+        "e",
+        "d",
+        "d",
+        "d",
+        "e"
+      ],
+      "variacao": 0,
+      "vitorias": 9
+    },
+    {
+      "aproveitamento": 34.3,
+      "derrotas": 19,
+      "empates": 5,
+      "equipe_id": 72,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/club_sport_maritimo_65.png",
+      "faixa_classificacao": {
+        "cor": null
+      },
+      "faixa_classificacao_cor": null,
+      "gols_contra": 47,
+      "gols_pro": 27,
+      "jogos": 34,
+      "nome_popular": "Mar\u00edtimo",
+      "ordem": 15,
+      "pontos": 35,
+      "saldo_gols": -20,
+      "sigla": "MAR",
+      "ultimos_jogos": [
+        "v",
+        "d",
+        "e",
+        "e",
+        "d"
+      ],
+      "variacao": -2,
+      "vitorias": 10
+    },
+    {
+      "aproveitamento": 33.3,
+      "derrotas": 14,
+      "empates": 13,
+      "equipe_id": 79,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/rioave_65.png",
+      "faixa_classificacao": {
+        "cor": "#ff8000"
+      },
+      "faixa_classificacao_cor": "#ff8000",
+      "gols_contra": 40,
+      "gols_pro": 25,
+      "jogos": 34,
+      "nome_popular": "Rio Ave",
+      "ordem": 16,
+      "pontos": 34,
+      "saldo_gols": -15,
+      "sigla": "RIO",
+      "ultimos_jogos": [
+        "e",
+        "d",
+        "d",
+        "d",
+        "v"
+      ],
+      "variacao": 1,
+      "vitorias": 7
+    },
+    {
+      "aproveitamento": 30.4,
+      "derrotas": 17,
+      "empates": 10,
+      "equipe_id": 5299,
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/09/06/far3.png",
+      "faixa_classificacao": {
+        "cor": "#ff0000"
+      },
+      "faixa_classificacao_cor": "#ff0000",
+      "gols_contra": 48,
+      "gols_pro": 31,
+      "jogos": 34,
+      "nome_popular": "Farense",
+      "ordem": 17,
+      "pontos": 31,
+      "saldo_gols": -17,
+      "sigla": "FAR",
+      "ultimos_jogos": [
+        "e",
+        "e",
+        "d",
+        "v",
+        "d"
+      ],
+      "variacao": -1,
+      "vitorias": 7
+    },
+    {
+      "aproveitamento": 24.5,
+      "derrotas": 21,
+      "empates": 7,
+      "equipe_id": 73,
+      "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/Nacional_da_Madeira_65.png",
+      "faixa_classificacao": {
+        "cor": "#ff0000"
+      },
+      "faixa_classificacao_cor": "#ff0000",
+      "gols_contra": 59,
+      "gols_pro": 30,
+      "jogos": 34,
+      "nome_popular": "Nacional da Madeira",
+      "ordem": 18,
+      "pontos": 25,
+      "saldo_gols": -29,
+      "sigla": "NAC",
+      "ultimos_jogos": [
+        "d",
+        "e",
+        "d",
+        "d",
+        "d"
+      ],
+      "variacao": 0,
+      "vitorias": 6
+    }
+  ],
+  "edicao": {
+    "data_fim": "2021-05-19",
+    "data_inicio": "2020-09-18",
+    "nome": "Campeonato Portugu\u00eas 2020/21",
+    "regulamento": "As 18 equipes se enfrentam em turno e returno e quem somar mais pontos \u00e9 o campe\u00e3o e tamb\u00e9m garante vaga na Liga dos Campe\u00f5es. O vice se classifica para os playoffs da Liga dos Campe\u00f5es. O 3\u00ba colocado disputa a 3\u00aa pr\u00e9-eliminat\u00f3ria da Liga Europa, e o 4\u00ba colocado garante vaga na 2\u00aa pr\u00e9-eliminat\u00f3ria da Liga Europa. Os dois \u00faltimos colocados s\u00e3o rebaixados. Crit\u00e9rios de desempate: 1) Confronto direto; 2) Saldo de gols em confronto direto; 3) Gols como visitante em confronto direto; 4) Saldo de gols; 5) Mais vit\u00f3rias; 6) Gols pr\u00f3"
+  },
+  "faixas_classificacao": [
+    {
+      "cor": "#0000ff",
+      "id": 2906,
+      "nome": "Liga dos Campe\u00f5es"
+    },
+    {
+      "cor": "#008000",
+      "id": 2907,
+      "nome": "Liga Confer\u00eancia"
+    },
+    {
+      "cor": "#ff0000",
+      "id": 2908,
+      "nome": "Rebaixados"
+    },
+    {
+      "cor": "#ff8000",
+      "id": 3031,
+      "nome": "Playoff de rebaixamento"
+    },
+    {
+      "cor": "#00ffff",
+      "id": 3127,
+      "nome": "Liga Europa"
+    }
+  ],
+  "fase": {
+    "disclaimer": "",
+    "slug": "fase-unica-campeonato-portugues",
+    "tipo": {
+      "descricao": "Pontos Corridos",
+      "tipo_id": "1"
+    }
+  },
+  "fases_navegacao": [
+    {
+      "atual": true,
+      "nome": "Fase \u00fanica",
+      "slug": "fase-unica-campeonato-portugues"
+    }
+  ],
+  "lista_jogos": [
+    {
+      "data_realizacao": "2021-05-18T16:15",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/16/Tondela65.png",
+          "id": 4231,
+          "nome_popular": "Tondela",
+          "sigla": "TON"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/pacos_65.png",
+          "id": 78,
+          "nome_popular": "Pa\u00e7os de Ferreira",
+          "sigla": "PDF"
+        }
+      },
+      "hora_realizacao": "16:15",
+      "id": 265555,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Est\u00e1dio Jo\u00e3o Cardoso"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T14:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/03/12/porto.svg",
+          "id": 74,
+          "nome_popular": "Porto",
+          "sigla": "POR"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/09/19/Belenenses-SAD-65.png",
+          "id": 5307,
+          "nome_popular": "Belenenses SAD",
+          "sigla": "BSA"
+        }
+      },
+      "hora_realizacao": "14:00",
+      "id": 265604,
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Drag\u00e3o"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T15:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/15/Santa_Clara_copy-01.svg",
+          "id": 4629,
+          "nome_popular": "Santa Clara",
+          "sigla": "SAN"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/09/06/far3.png",
+          "id": 5299,
+          "nome_popular": "Farense",
+          "sigla": "FAR"
+        }
+      },
+      "hora_realizacao": "15:00",
+      "id": 265561,
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "S\u00e3o Miguel"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T16:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2012/07/12/Moreirense65.png",
+          "id": 3514,
+          "nome_popular": "Moreirense",
+          "sigla": "MOR"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/07/15/Famalic\u00e3o-65x65.png",
+          "id": 4857,
+          "nome_popular": "Famalic\u00e3o",
+          "sigla": "FCF"
+        }
+      },
+      "hora_realizacao": "16:00",
+      "id": 265554,
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Comendador Freitas"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T16:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/vitoria_65.png",
+          "id": 84,
+          "nome_popular": "Vit\u00f3ria de Guimar\u00e3es",
+          "sigla": "VDG"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/03/11/benfica.svg",
+          "id": 81,
+          "nome_popular": "Benfica",
+          "sigla": "BEN"
+        }
+      },
+      "hora_realizacao": "16:00",
+      "id": 265557,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "D. Afonso Henriques"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T16:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/Gil_Vicente_65.png",
+          "id": 3137,
+          "nome_popular": "Gil Vicente",
+          "sigla": "GVC"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/07/29/Boavista_FC-portugal-65.png",
+          "id": 4024,
+          "nome_popular": "Boavista",
+          "sigla": "BOA"
+        }
+      },
+      "hora_realizacao": "16:00",
+      "id": 265558,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Cidade de Barcelos"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T16:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/08/02/Portimonense-65x65.png",
+          "id": 2675,
+          "nome_popular": "Portimonense",
+          "sigla": "PTM"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/03/01/Braga65.png",
+          "id": 80,
+          "nome_popular": "Braga",
+          "sigla": "BRG"
+        }
+      },
+      "hora_realizacao": "16:00",
+      "id": 265559,
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Municipal de Portim\u00e3o"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T16:00",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/Nacional_da_Madeira_65.png",
+          "id": 73,
+          "nome_popular": "Nacional da Madeira",
+          "sigla": "NAC"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/rioave_65.png",
+          "id": 79,
+          "nome_popular": "Rio Ave",
+          "sigla": "RIO"
+        }
+      },
+      "hora_realizacao": "16:00",
+      "id": 265562,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Madeira"
+      },
+      "transmissao": null
+    },
+    {
+      "data_realizacao": "2021-05-19T17:45",
+      "equipes": {
+        "mandante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/02/12/Sporting_Clube_de_Portugal-65.png",
+          "id": 82,
+          "nome_popular": "Sporting",
+          "sigla": "SPT"
+        },
+        "visitante": {
+          "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/club_sport_maritimo_65.png",
+          "id": 72,
+          "nome_popular": "Mar\u00edtimo",
+          "sigla": "MAR"
+        }
+      },
+      "hora_realizacao": "17:45",
+      "id": 265560,
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 1,
+      "placar_penaltis_mandante": null,
+      "placar_penaltis_visitante": null,
+      "sede": {
+        "nome_popular": "Jos\u00e9 Alvalade"
+      },
+      "transmissao": null
+    }
+  ],
+  "lista_jogos_unica": true,
+  "lista_tipo_unica": true,
+  "rodada": {
+    "atual": 34,
+    "ultima": 34
+  }
+}

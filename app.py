@@ -1,5 +1,4 @@
-from flask import Flask , render_template, request, send_file
-from forms import ExtrairJson
+from flask import Flask , render_template, request, send_file,flash
 import zipfile
 import io
 import pathlib
@@ -9,25 +8,30 @@ from script import getJson
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'SPLN2021'
-app.config['UPLOAD_FOLDER'] = 'JsonsTemp/'
 
-@app.route("/", methods=['GET','POST'])
+@app.route("/", methods=['GET'])
 def home():
-    form = ExtrairJson()
-    if(form.is_submitted()):
-        result = request.form 
-        try:
-            shutil.rmtree("JsonsTemp/")
-        except OSError as e:
-          print ("Error: %s - %s." % (e.filename, e.strerror))
-        
-        getJson(result['link'],result['palavra'])
+    cond = False
+    return render_template('ExtrairJson.html',condition=cond)
 
-    return render_template('ExtrairJson.html',form=form)
+@app.route("/procurar", methods=['POST'])
+def procurar():
+    
+    try:
+        shutil.rmtree("JsonsTemp/")
+    except OSError as e:
+      print ("Ficheiro ainda não existe: %s - %s." % (e.filename, e.strerror))
+    
+    cond = getJson(request.form.get("link"),request.form.get("palavra"))
+    if(cond):
+        flash("Foram encontrados jsons!")
+    else:
+        flash("Não foram encontrados jsons!")
 
-@app.route('/download')
+    return render_template('ExtrairJson.html',condition=cond)
+
+@app.route('/download', methods=['POST'])
 async def downloadFile ():
-    form = ExtrairJson()
 
     base_path = pathlib.Path('./JsonsTemp/')
     data = io.BytesIO()
@@ -42,3 +46,6 @@ async def downloadFile ():
         as_attachment=True,
         attachment_filename='data.zip'
     )
+
+if __name__ == "__main__":
+    app.run(debug=True)

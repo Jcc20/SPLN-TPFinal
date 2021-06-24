@@ -1,0 +1,245 @@
+[
+  {
+    "data_realizacao": "2021-05-18T16:15",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/16/Tondela65.png",
+        "id": 4231,
+        "nome_popular": "Tondela",
+        "sigla": "TON"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/pacos_65.png",
+        "id": 78,
+        "nome_popular": "Pa\u00e7os de Ferreira",
+        "sigla": "PDF"
+      }
+    },
+    "hora_realizacao": "16:15",
+    "id": 265555,
+    "placar_oficial_mandante": 2,
+    "placar_oficial_visitante": 3,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Est\u00e1dio Jo\u00e3o Cardoso"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T14:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/03/12/porto.svg",
+        "id": 74,
+        "nome_popular": "Porto",
+        "sigla": "POR"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/09/19/Belenenses-SAD-65.png",
+        "id": 5307,
+        "nome_popular": "Belenenses SAD",
+        "sigla": "BSA"
+      }
+    },
+    "hora_realizacao": "14:00",
+    "id": 265604,
+    "placar_oficial_mandante": 4,
+    "placar_oficial_visitante": 0,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Drag\u00e3o"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T15:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/15/Santa_Clara_copy-01.svg",
+        "id": 4629,
+        "nome_popular": "Santa Clara",
+        "sigla": "SAN"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/09/06/far3.png",
+        "id": 5299,
+        "nome_popular": "Farense",
+        "sigla": "FAR"
+      }
+    },
+    "hora_realizacao": "15:00",
+    "id": 265561,
+    "placar_oficial_mandante": 4,
+    "placar_oficial_visitante": 0,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "S\u00e3o Miguel"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T16:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2012/07/12/Moreirense65.png",
+        "id": 3514,
+        "nome_popular": "Moreirense",
+        "sigla": "MOR"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/07/15/Famalic\u00e3o-65x65.png",
+        "id": 4857,
+        "nome_popular": "Famalic\u00e3o",
+        "sigla": "FCF"
+      }
+    },
+    "hora_realizacao": "16:00",
+    "id": 265554,
+    "placar_oficial_mandante": 3,
+    "placar_oficial_visitante": 0,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Comendador Freitas"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T16:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/vitoria_65.png",
+        "id": 84,
+        "nome_popular": "Vit\u00f3ria de Guimar\u00e3es",
+        "sigla": "VDG"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/03/11/benfica.svg",
+        "id": 81,
+        "nome_popular": "Benfica",
+        "sigla": "BEN"
+      }
+    },
+    "hora_realizacao": "16:00",
+    "id": 265557,
+    "placar_oficial_mandante": 1,
+    "placar_oficial_visitante": 3,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "D. Afonso Henriques"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T16:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/Gil_Vicente_65.png",
+        "id": 3137,
+        "nome_popular": "Gil Vicente",
+        "sigla": "GVC"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/07/29/Boavista_FC-portugal-65.png",
+        "id": 4024,
+        "nome_popular": "Boavista",
+        "sigla": "BOA"
+      }
+    },
+    "hora_realizacao": "16:00",
+    "id": 265558,
+    "placar_oficial_mandante": 1,
+    "placar_oficial_visitante": 2,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Cidade de Barcelos"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T16:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/08/02/Portimonense-65x65.png",
+        "id": 2675,
+        "nome_popular": "Portimonense",
+        "sigla": "PTM"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/03/01/Braga65.png",
+        "id": 80,
+        "nome_popular": "Braga",
+        "sigla": "BRG"
+      }
+    },
+    "hora_realizacao": "16:00",
+    "id": 265559,
+    "placar_oficial_mandante": 0,
+    "placar_oficial_visitante": 0,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Municipal de Portim\u00e3o"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T16:00",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/Nacional_da_Madeira_65.png",
+        "id": 73,
+        "nome_popular": "Nacional da Madeira",
+        "sigla": "NAC"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/rioave_65.png",
+        "id": 79,
+        "nome_popular": "Rio Ave",
+        "sigla": "RIO"
+      }
+    },
+    "hora_realizacao": "16:00",
+    "id": 265562,
+    "placar_oficial_mandante": 1,
+    "placar_oficial_visitante": 2,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Madeira"
+    },
+    "transmissao": null
+  },
+  {
+    "data_realizacao": "2021-05-19T17:45",
+    "equipes": {
+      "mandante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/02/12/Sporting_Clube_de_Portugal-65.png",
+        "id": 82,
+        "nome_popular": "Sporting",
+        "sigla": "SPT"
+      },
+      "visitante": {
+        "escudo": "https://s.glbimg.com/es/sde/f/original/2011/07/28/club_sport_maritimo_65.png",
+        "id": 72,
+        "nome_popular": "Mar\u00edtimo",
+        "sigla": "MAR"
+      }
+    },
+    "hora_realizacao": "17:45",
+    "id": 265560,
+    "placar_oficial_mandante": 5,
+    "placar_oficial_visitante": 1,
+    "placar_penaltis_mandante": null,
+    "placar_penaltis_visitante": null,
+    "sede": {
+      "nome_popular": "Jos\u00e9 Alvalade"
+    },
+    "transmissao": null
+  }
+]
