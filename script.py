@@ -34,7 +34,7 @@ def getJson(link,name):
             bool = False
             if not os.path.exists('JsonsTemp/'):
                 os.makedirs('JsonsTemp/')
-            t = open('JsonsTemp/'+name+'.json', "w+")
+            t = open('JsonsTemp/'+name+'.json', "w")
             json_prettify = validateJSON(content)
             t.write(json_prettify)
             t.close()
